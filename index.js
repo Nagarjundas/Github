@@ -1,1 +1,1 @@
-console.log("HIIII it is working")
+console.log("HIIII it is working from the second window")
